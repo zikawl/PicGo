@@ -2,4 +2,6 @@
 
 本仓库用于存储个人博客文章封面及内容图片，无其他作用。
 
-博客地址：https://www.abcii.cn
+博客地址：[https://www.abcii.cn](https://www.abcii.cn)
+
+GitHub文件加速：[https://gh-proxy.com](https://gh-proxy.com)
